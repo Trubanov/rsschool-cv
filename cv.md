@@ -1,9 +1,8 @@
-<<<<<<< HEAD
-[GitHub](https://github.com/Trubanov) | [Telegram](https://t.me/ccrew10) 
-=======
-[GitHub](https://github.com/Trubanov) | [Telegram](https://t.me/ccrew10) | 
+![Avatar](https://ic.wampi.ru/2021/07/15/photo_2021-07-15_22-08-22.jpg)
 
->>>>>>> 8388d4fd3826ab78f955bd71d08c605350e2cb8a
+# Gleb Trubanov :innocent:    
+
+[GitHub](https://github.com/Trubanov) | [Telegram](https://t.me/ccrew10) | 
 
 ---
 
