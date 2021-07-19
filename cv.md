@@ -31,3 +31,8 @@ for people.
 
 ---
 
+## English
+
+A2+ (Pre-Intermediate)
+
+---
