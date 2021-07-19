@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 [GitHub](https://github.com/Trubanov) | [Telegram](https://t.me/ccrew10) 
+=======
+[GitHub](https://github.com/Trubanov) | [Telegram](https://t.me/ccrew10) | 
+
+>>>>>>> 8388d4fd3826ab78f955bd71d08c605350e2cb8a
 
 ---
 
